@@ -57,4 +57,4 @@ It will create a new folder named `Numpy-Tutorial-SciPyConf-2018/` with all the 
 
 ## Questions? Problems?
 
-You may post messages to the slack channel for this tutorial at: [https://scipy2019.slack.com](https://scipy2019.slack.com) (The channel doesn't yet exist as of 2019-06-18, but it should soon.)
+You may post messages to the `#numpy` Slack channel for this tutorial at in the official Slack team: [https://scipy2019.slack.com](https://scipy2019.slack.com) .
