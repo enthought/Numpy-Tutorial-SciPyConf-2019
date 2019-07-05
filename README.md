@@ -1,6 +1,6 @@
 # SciPy 2019 Tutorial: Introduction to Numerical Computing With NumPy
 
-#### Presented by: Alexandre Chabot-Leclerc, [Enthought Inc.](https://www.enthought.com)
+#### Presented by: Alexandre Chabot-Leclerc, [Enthought, Inc.](https://www.enthought.com)
 
 This repository contains all the material needed by students registered for the Numpy tutorial of SciPy 2018 on Monday, July 8th 2019.
 
